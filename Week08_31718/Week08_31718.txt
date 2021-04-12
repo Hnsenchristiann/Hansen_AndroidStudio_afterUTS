@@ -1,0 +1,12 @@
+Hansen Christian Zaputa (00000031718)
+
+Link Git : https://github.com/Hnsenchristiann/Hansen_AndroidMobile_31718
+
+Week08A : kita bisa menulis nama file beserta isinya sesuai dengan kemauan user lalu
+	  dapat di save dengan 3 tempat yang berbeda yaitu Temporary (cache), internal,
+	  , dan external. terdapat beberapa button seperti delete untuk mendelete file 
+	  yang ingin di hapus lalu, button clear untuk menghapus nama file dan isi file
+  	  pada tahap pengisian, open untuk membuka file, lalu exit untuk keluar dari app
+
+Week08B : kita bisa menambahkan angka secara berurutan dan memakai background yang terdiri
+	  dari 4 warna beerbeda serta bisa mereset sehingga angka kembali menjadi 0

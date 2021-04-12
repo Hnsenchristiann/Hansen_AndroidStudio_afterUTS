@@ -1,0 +1,4 @@
+Hansen Christian Zaputra (00000031718)
+
+Pada week ini mempelajari penggunaan sqlite dan menjalankan database sederhana yang di
+panggil dan di tambah di dalam suatu halaman activity sesuai dengan database yang telah di buat
